@@ -20,8 +20,6 @@ Make sure you have Python installed, then run:
 python Rock_Paper_Scissor.py
 
 
-##🧠 What I Learned
-How to use loops and conditionals in Python
 Using the random module
 Practice with user input and validation
 Basics of Git & GitHub version control
